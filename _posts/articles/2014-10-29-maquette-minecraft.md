@@ -15,6 +15,8 @@ Créer un nouveau monde et y construire l'école dans laquelle vous vous trouvez
 
 > Paramétrer le monde en "créa"
 
+Penser à créer un parking, les différents niveaux, la cafétéria, le secrétariat, les couloirs et les salles de classe.
+
 Vous pouvez vous inspirer des images suivantes
 
 | ![](/images/in-out/out-1.jpg) |
